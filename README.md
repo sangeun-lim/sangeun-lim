@@ -13,7 +13,7 @@
 -->
 
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=HI,&nbsp;I'M&nbsp;SANGEUN👋&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=HI,&nbsp;I'M&nbsp;SANGEUN👋&fontSize=60"/>
 </div>
 
 <div align='center'>
