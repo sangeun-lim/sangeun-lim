@@ -27,7 +27,9 @@
   <h3>📚 Tech Stack</h3> 
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
 </div>
 <div align='center'>
@@ -49,8 +51,9 @@
 
 <div align='center'>
   <h3>🔍 Links</h3>
-  <p>blog : <a href="https://velog.io/@lse2625">lse2625.log</a></p>
-  <p>email : lse2625@gmail.com</p>
+  <a href="https://velog.io/@lse2625"><img src="https://img.shields.io/badge/lse2625.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <br>
+  <a href="mailto:lse2625@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lse2625@gmail.com"/></a>
 </div>
 
 ---
