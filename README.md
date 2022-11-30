@@ -19,9 +19,9 @@
 </div> -->
 
 <br>
+  <h2 align="center">☾⋆⁺₊⋆💙 What I can do is 💙☾⋆⁺₊⋆</h2>
 
 <div align='center'>
-  <h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
