@@ -53,7 +53,7 @@
   <h3>🔍 Links</h3>
   <a href="https://velog.io/@lse2625"><img src="https://img.shields.io/badge/lse2625.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <br>
-  <a href="mailto:lse2625@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lse2625@gmail.com"/></a>
+  <a href="mailto:lse2625@gmail.com"><img src="https://img.shields.io/badge/lse2625@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:lse2625@gmail.com"/></a>
 </div>
 
 ---
