@@ -13,18 +13,18 @@
 -->
 
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=HI,&nbsp;I'M&nbsp;SANGEUN👋&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=70&section=header&text=HI,&nbsp;I'M&nbsp;SANGEUN👋&fontSize=50"/>
 </div>
 
-<div align='center'>
+<!-- <div align='center'>
   <h3>🧐 Introduction</h3>
   <p>안녕하세요, 임상은입니다.</p>
-</div>
+</div> -->
 
----
+<br>
 
 <div align='center'>
-  <h3>📚 Tech Stack</h3> 
+  <h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
