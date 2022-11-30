@@ -60,6 +60,6 @@
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=sangeun-lim&theme=nightowl&show_icons=true"></img>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun-lim&layout=compact&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun-lim&layout=compact&theme=tokyonight" />
 </div>
 
