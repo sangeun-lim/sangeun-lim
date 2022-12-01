@@ -35,7 +35,7 @@
 
 <div align='center'>
   <h3>🔍 Links</h3>
-  <a href="https://calico-grin-924.notion.site/SANGEUN-PORTFOLIO-9b81cc5fd1f64ff3916e8d3c8a2bf9f1"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://lse2625.notion.site/SANGEUN-PORTFOLIO-9b81cc5fd1f64ff3916e8d3c8a2bf9f1"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
   <br>
   <a href="https://velog.io/@lse2625"><img src="https://img.shields.io/badge/lse2625.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <br>
